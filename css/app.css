@@ -1,0 +1,26 @@
+.fontFamilyNone{
+    font-family: none !important;
+}
+
+.storyHeader{
+    top: 100px;
+    position: absolute;
+    font-size: 23px;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.storyHeader a{
+    color: #FFF;
+}
+.storyHeader a:hover{
+    color: #CCC;
+}
+
+.visiblityHidden{
+    visibility: hidden;
+}
+
+.overflowHidden{
+    overflow: hidden;
+}
